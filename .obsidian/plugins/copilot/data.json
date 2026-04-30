@@ -294,6 +294,11 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "gemini-2.0-flash",
+      "provider": "google",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
