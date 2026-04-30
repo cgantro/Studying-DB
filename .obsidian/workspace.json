@@ -198,8 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e3cf9b8c033c52",
+  "active": "c891d3508dbf2255",
   "lastOpenFiles": [
+    "기업/삼성SDS/템플릿-회사맞춤답변.md",
+    "QnA/템플릿-인성답변.md",
+    "QnA/템플릿-기술답변.md",
+    "프로젝트/템플릿-프로젝트.md",
     "QnA/QnA.md",
     "QnA/CPU와 메모리/cpu-memory-ipc.md",
     "QnA/네트워크/CS_면접_답변_100.md",
@@ -221,10 +225,6 @@
     "CS공부/10_언어/10_언어.md",
     "CS공부/10_언어/03_컴파일과 인터프리터/01_컴파일러 인터프리터 JIT 비교.md",
     "CS공부/05_운영체제/08_가상화와 컨테이너/03_가상 메모리와 가상화 차이.md",
-    "프로젝트/RobotPal.md",
-    "프로젝트/AGENTS.md",
-    "프로젝트/프로젝트-공통-면접포인트.md",
-    "프로젝트/영묘.md",
-    "프로젝트/온라인-합주-플랫폼.md"
+    "프로젝트/RobotPal.md"
   ]
 }
