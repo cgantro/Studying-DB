@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/스티커.md",
+                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스티커"
+              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/스티커.md",
+                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "스티커 의 백링크"
+              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/스티커.md",
+                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "스티커 의 나가는 링크"
+              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/스티커.md",
+                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "스티커 의 개요"
+              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472 의 개요"
             }
           },
           {
@@ -202,6 +202,12 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "내 노션/정리본 6f7e403eeb224629840fb95e2a308a81.md",
+    "프로젝트/스티커/03-배포-스크립트-가드레일.md",
+    "프로젝트/스티커/00-상태-요약.md",
+    "프로젝트/스티커/01-CI-CD-배포-구조.md",
+    "프로젝트/스티커/02-헬스체크-보안-경계.md",
+    "프로젝트/스티커.md",
     "프로젝트/RobotPal/04-전송계층-추상화-대안.md",
     "프로젝트/RobotPal/03-수신-서버-Python-프레임-드롭-실시간.md",
     "프로젝트/RobotPal/02-카메라-스트리밍-송신-병목-개선.md",
@@ -220,14 +226,8 @@
     "프로젝트/영묘/01-구조-흐름.md",
     "프로젝트/영묘/00-상태-요약.md",
     "프로젝트/영묘.md",
-    "프로젝트/스티커/03-배포-스크립트-가드레일.md",
-    "프로젝트/스티커/02-헬스체크-보안-경계.md",
-    "프로젝트/스티커/01-CI-CD-배포-구조.md",
-    "프로젝트/스티커/00-상태-요약.md",
-    "프로젝트/스티커.md",
     "프로젝트/Autowing-Car/03-인증-세션-토큰.md",
     "프로젝트/Autowing-Car/02-CI-CD-배포-이슈.md",
-    "프로젝트/Autowing-Car/01-구조-흐름.md",
     "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
