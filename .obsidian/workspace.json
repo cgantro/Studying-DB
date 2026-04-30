@@ -11,14 +11,12 @@
             "id": "69e3cf9b8c033c52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "프로젝트/RobotPal/01-구조-흐름.md",
-                "mode": "source",
-                "source": false
+                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01-구조-흐름"
+              "icon": "lucide-file-text",
+              "title": "(삼성SDS) 직무소개 - SW"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/RobotPal/01-구조-흐름.md",
+                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01-구조-흐름 의 백링크"
+              "title": "(삼성SDS) 직무소개 - SW 의 백링크"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/RobotPal/01-구조-흐름.md",
+                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01-구조-흐름 의 나가는 링크"
+              "title": "(삼성SDS) 직무소개 - SW 의 나가는 링크"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/RobotPal/01-구조-흐름.md",
+                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-구조-흐름 의 개요"
+              "title": "(삼성SDS) 직무소개 - SW 의 개요"
             }
           },
           {
@@ -202,23 +200,32 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
-    "프로젝트/RobotPal/00-상태-요약.md",
-    "QnA/운영체제/CS_면접_질문_100.md",
+    "기업/삼성SDS/04_역질문-리스트.md",
+    "기업/삼성SDS/템플릿-회사맞춤답변.md",
+    "기업/삼성SDS/02_직무-적합성.md",
+    "기업/삼성SDS/03_맞춤-답변-세트.md",
+    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+    "기업/삼성SDS/00_Index.md",
     "프로젝트/RobotPal/04-전송계층-추상화-대안.md",
-    "프로젝트/RobotPal/03-수신-서버-Python-프레임-드롭-실시간.md",
-    "프로젝트/RobotPal/02-카메라-스트리밍-송신-병목-개선.md",
+    "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
+    "프로젝트/Autowing-Car/03-인증-세션-토큰.md",
+    "프로젝트/Autowing-Car/02-CI-CD-배포-이슈.md",
+    "프로젝트/Autowing-Car/01-구조-흐름.md",
+    "프로젝트/Autowing-Car/00-상태-요약.md",
+    "프로젝트/Autowing-Car.md",
+    "프로젝트/RobotPal/00-상태-요약.md",
     "프로젝트/RobotPal/01-구조-흐름.md",
+    "프로젝트/RobotPal/02-카메라-스트리밍-송신-병목-개선.md",
+    "QnA/운영체제/CS_면접_질문_100.md",
+    "프로젝트/RobotPal/03-수신-서버-Python-프레임-드롭-실시간.md",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
     "프로젝트/스티커",
     "프로젝트/Autowing-Car",
     "프로젝트/RobotPal",
-    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "기업/삼성SDS/26-03-23_삼성SDS 소프트웨어.docx",
     "QnA/운영체제/context-switch-register.md",
     "QnA/용어/overhead-override.md",
-    "기업/삼성SDS/템플릿-회사맞춤답변.md",
-    "기업/삼성SDS/04_역질문-리스트.md",
     "CS공부/11_개발 기본기/01_Git.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -226,15 +233,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]
