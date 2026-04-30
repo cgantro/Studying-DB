@@ -174,19 +174,9 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
-          },
-          {
-            "id": "ef9f1f1cd20eee01",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,7 +195,9 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
   "active": "69e3cf9b8c033c52",
