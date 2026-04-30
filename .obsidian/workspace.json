@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
+                "file": "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472"
+              "title": "SDS-핵심질문-40"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
+                "file": "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472 의 백링크"
+              "title": "SDS-핵심질문-40 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
+                "file": "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472 의 나가는 링크"
+              "title": "SDS-핵심질문-40 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
+                "file": "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "내 답변 적기 34bc9558ec5380f0b1f5c930775aa472 의 개요"
+              "title": "SDS-핵심질문-40 의 개요"
             }
           },
           {
@@ -200,8 +200,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "39e02b2b3cc23658",
+  "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "QnA/기업면접/삼성SDS/SDS-프로젝트-매핑.md",
+    "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
+    "QnA/기업면접/삼성SDS/00_Index.md",
+    "내 노션/정리본/내 답변 적기 34bc9558ec5380f0b1f5c930775aa472.md",
     "기업/삼성SDS/09_기술면접-PT-대비-프레임.md",
     "기업/삼성SDS/08_면접-피드백-액션아이템.md",
     "기업/삼성SDS/07_인성-면접-답변-정리.md",
@@ -224,10 +228,6 @@
     "프로젝트/mm-bot/01-아키텍처-흐름.md",
     "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
     "프로젝트/mm-bot/00-상태-요약.md",
-    "프로젝트/mm-bot.md",
-    "프로젝트/영묘/04-RoomCode-논리격리.md",
-    "프로젝트/영묘/03-Opus-코덱-프레임-전송.md",
-    "프로젝트/영묘/02-보이스-UDP-릴레이-서버.md",
     "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
