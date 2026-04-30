@@ -1,0 +1,9 @@
+﻿프로젝트명,기술 스택,담당 역할,링크,시작일,종료일,주요 성과,진행 상태,팀원 수
+코리안 스낵 샵,"AW2 RDS, AWS EC2, Java, MySQL, Spring Boot",,,2023년 8월 24일,2023년 9월 22일,,완료됨,
+웹 기반 스마트 포트폴리오 & 개인비서 서비스,"CSS3, HTML, JavaScript",,,2025년 8월 7일,2025년 8월 20일,,완료됨,
+RobotPal 프로젝트,"C++17, CMAKE, ECS, Emscripten, Python, TCP, WASM, WebSocket, flecs",,,2025년 11월 21일,2025년 12월 26일,,완료됨,
+SSAFY-Bob,"FastMCP, Python, Smithery, uv",,,2025년 10월 15일,2025년 11월 1일,,완료됨,2
+Autowing-Car,"AWS EC2, Java, MQTT, Spring Boot, WebSocket",,,2026년 1월 12일,2026년 2월 6일,,진행 중,6
+영묘,"C++ 20, Opus, TCP, UDP, UE5, WebSocket",,,2026년 2월 23일,,,계획 중,
+온라인 합주 플랫폼,"C++ 20, Java, Spring Boot",,,2026년 3월 30일,,,계획 중,
+스티커,"AW2 RDS, AWS EC2, AWS S3, AWS SQS, Java 21, Spring Boot",,,2026년 4월 6일,,,계획 중,

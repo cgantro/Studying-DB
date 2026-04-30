@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "cb26b7b11b23b2e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a26eabe869b81ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69e3cf9b8c033c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AGENTs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AGENTs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e271677413a1d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "db9fda593057967b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e02b2b3cc23658",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "58aad3fe3c411c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "67e30d7d4d48d4b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d452fdc3370b519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "19bb40715ec903a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b40dc79e452ab42f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AGENTs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "AGENTs 의 백링크"
+            }
+          },
+          {
+            "id": "e0011cc9acef4d11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AGENTs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AGENTs 의 나가는 링크"
+            }
+          },
+          {
+            "id": "dccd18ab004a5f2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "93799f6c6cc4b55b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "b61aec6ab6374d72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AGENTs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AGENTs 의 개요"
+            }
+          },
+          {
+            "id": "c891d3508dbf2255",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "publish:변경사항 게재": false,
+      "markdown-importer:마크다운 형식 불러오기 열기": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "69e3cf9b8c033c52",
+  "lastOpenFiles": [
+    "QnA/QnA.md",
+    "QnA/CPU와 메모리/cpu-memory-ipc.md",
+    "QnA/네트워크/CS_면접_답변_100.md",
+    "QnA/네트워크/CS_면접_질문_100.md",
+    "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
+    "QnA/기업면접/삼성SDS/SDS-프로젝트-매핑.md",
+    "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
+    "QnA/기업면접/삼성SDS/00_Index.md",
+    "CS공부/CS공부.md",
+    "CS공부/용어 모음집/버스.md",
+    "CS공부/용어 모음집/뮤텍스.md",
+    "CS공부/용어 모음집/명령어.md",
+    "CS공부/용어 모음집/메모리 매핑 입출력.md",
+    "CS공부/용어 모음집/가상 메모리.md",
+    "CS공부/언어/언어.md",
+    "CS공부/언어/C++/C++.md",
+    "CS공부/언어/C++/03_RAII와 동시성 실무.md",
+    "CS공부/언어/C++/01_C++17 핵심.md",
+    "CS공부/10_언어/10_언어.md",
+    "CS공부/10_언어/03_컴파일과 인터프리터/01_컴파일러 인터프리터 JIT 비교.md",
+    "CS공부/05_운영체제/08_가상화와 컨테이너/03_가상 메모리와 가상화 차이.md",
+    "프로젝트/RobotPal.md",
+    "프로젝트/AGENTS.md",
+    "프로젝트/프로젝트-공통-면접포인트.md",
+    "프로젝트/영묘.md",
+    "프로젝트/온라인-합주-플랫폼.md"
+  ]
+}
