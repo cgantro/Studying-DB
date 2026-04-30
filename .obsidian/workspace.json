@@ -21,8 +21,7 @@
               "title": "01-구조-흐름"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +201,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "38b825cee2e7b077",
+  "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
     "프로젝트/RobotPal/00-상태-요약.md",
     "프로젝트/온라인-합주-플랫폼.md",
@@ -217,10 +216,16 @@
     "QnA/템플릿-인성답변.md",
     "기업/삼성SDS/07_인성-면접-답변-정리.md",
     "기업/삼성SDS/03_맞춤-답변-세트.md",
+    "기업/삼성SDS/01_기업-분석-요약.md",
+    "기업/삼성SDS/02_직무-적합성.md",
+    "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
+    "QnA/운영체제/address-space.md",
+    "인성 면접 질의 응답.md",
+    "프로젝트/스티커/04-협업-규칙-문서화.md",
+    "QnA/기업면접/삼성SDS/00_Index.md",
+    "기업/삼성SDS/09_기술면접-PT-대비-프레임.md",
     "copilot/copilot-conversations/1분_자기소개를_기술_면접인성_면접_둘다_작성해라.@20260430_175536.md",
     "copilot/copilot-conversations",
-    "기업/삼성SDS/02_직무-적합성.md",
-    "기업/삼성SDS/01_기업-분석-요약.md",
     "기업/삼성SDS/00_Index.md",
     "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "기업/AGENTS.md",
