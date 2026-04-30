@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ef9f1f1cd20eee01",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,11 +204,14 @@
       "markdown-importer:마크다운 형식 불러오기 열기": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "69e3cf9b8c033c52",
+  "active": "ef9f1f1cd20eee01",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/1분_자기소개를_기술_면접인성_면접_둘다_작성해라.@20260430_175536.md",
+    "copilot/copilot-conversations",
     "기업/삼성SDS/02_직무-적합성.md",
     "기업/삼성SDS/01_기업-분석-요약.md",
     "기업/삼성SDS/00_Index.md",
@@ -225,7 +238,6 @@
     "프로젝트/영묘/04-RoomCode-논리격리.md",
     "프로젝트/영묘/03-Opus-코덱-프레임-전송.md",
     "프로젝트/Autowing-Car/03-인증-세션-토큰.md",
-    "프로젝트/Autowing-Car/02-CI-CD-배포-이슈.md",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
     "프로젝트/스티커",
