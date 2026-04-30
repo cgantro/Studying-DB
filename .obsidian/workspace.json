@@ -11,12 +11,14 @@
             "id": "69e3cf9b8c033c52",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf"
+                "file": "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "(삼성SDS) 직무소개 - SW"
+              "icon": "lucide-file",
+              "title": "04-맵-리소스-로딩-Docker-JAR"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+                "file": "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(삼성SDS) 직무소개 - SW 의 백링크"
+              "title": "04-맵-리소스-로딩-Docker-JAR 의 백링크"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+                "file": "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "(삼성SDS) 직무소개 - SW 의 나가는 링크"
+              "title": "04-맵-리소스-로딩-Docker-JAR 의 나가는 링크"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+                "file": "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "(삼성SDS) 직무소개 - SW 의 개요"
+              "title": "04-맵-리소스-로딩-Docker-JAR 의 개요"
             }
           },
           {
@@ -200,19 +202,19 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
-    "기업/삼성SDS/04_역질문-리스트.md",
-    "기업/삼성SDS/템플릿-회사맞춤답변.md",
-    "기업/삼성SDS/02_직무-적합성.md",
-    "기업/삼성SDS/03_맞춤-답변-세트.md",
-    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
-    "기업/삼성SDS/00_Index.md",
-    "프로젝트/RobotPal/04-전송계층-추상화-대안.md",
-    "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
     "프로젝트/Autowing-Car/03-인증-세션-토큰.md",
+    "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
     "프로젝트/Autowing-Car/02-CI-CD-배포-이슈.md",
     "프로젝트/Autowing-Car/01-구조-흐름.md",
     "프로젝트/Autowing-Car/00-상태-요약.md",
     "프로젝트/Autowing-Car.md",
+    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+    "기업/삼성SDS/04_역질문-리스트.md",
+    "기업/삼성SDS/템플릿-회사맞춤답변.md",
+    "기업/삼성SDS/02_직무-적합성.md",
+    "기업/삼성SDS/03_맞춤-답변-세트.md",
+    "기업/삼성SDS/00_Index.md",
+    "프로젝트/RobotPal/04-전송계층-추상화-대안.md",
     "프로젝트/RobotPal/00-상태-요약.md",
     "프로젝트/RobotPal/01-구조-흐름.md",
     "프로젝트/RobotPal/02-카메라-스트리밍-송신-병목-개선.md",
@@ -232,7 +234,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]
