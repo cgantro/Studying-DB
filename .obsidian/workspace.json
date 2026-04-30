@@ -202,6 +202,11 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "프로젝트/스티커/03-배포-스크립트-가드레일.md",
+    "프로젝트/스티커/02-헬스체크-보안-경계.md",
+    "프로젝트/스티커/01-CI-CD-배포-구조.md",
+    "프로젝트/스티커/00-상태-요약.md",
+    "프로젝트/스티커.md",
     "프로젝트/Autowing-Car/03-인증-세션-토큰.md",
     "프로젝트/Autowing-Car/04-맵-리소스-로딩-Docker-JAR.md",
     "프로젝트/Autowing-Car/02-CI-CD-배포-이슈.md",
@@ -230,10 +235,6 @@
     "QnA/용어/overhead-override.md",
     "CS공부/11_개발 기본기/01_Git.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts",
     "copilot"
   ]
