@@ -202,6 +202,11 @@
   },
   "active": "39e02b2b3cc23658",
   "lastOpenFiles": [
+    "프로젝트/RobotPal/04-전송계층-추상화-대안.md",
+    "프로젝트/RobotPal/03-수신-서버-Python-프레임-드롭-실시간.md",
+    "프로젝트/RobotPal/02-카메라-스트리밍-송신-병목-개선.md",
+    "프로젝트/RobotPal/01-구조-흐름.md",
+    "프로젝트/RobotPal/00-상태-요약.md",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
     "프로젝트/스티커",
@@ -231,10 +236,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "QnA/개발기본기/CS_면접_질문_100.md",
-    "QnA/개발기본기/CS_면접_답변_100.md",
-    "QnA/기업면접/삼성SDS/SDS-프로젝트-매핑.md",
-    "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
-    "AGENTs.md"
+    "QnA/개발기본기/CS_면접_질문_100.md"
   ]
 }
