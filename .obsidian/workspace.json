@@ -200,8 +200,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "69e3cf9b8c033c52",
+  "active": "39e02b2b3cc23658",
   "lastOpenFiles": [
+    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+    "기업/삼성SDS/26-03-23_삼성SDS 소프트웨어.docx",
     "QnA/운영체제/context-switch-register.md",
     "QnA/용어/overhead-override.md",
     "기업/삼성SDS/템플릿-회사맞춤답변.md",
@@ -228,7 +230,6 @@
     "QnA/개발기본기/CS_면접_답변_100.md",
     "QnA/기업면접/삼성SDS/SDS-프로젝트-매핑.md",
     "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
-    "AGENTs.md",
-    "QnA/템플릿-인성답변.md"
+    "AGENTs.md"
   ]
 }
