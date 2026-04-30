@@ -21,7 +21,8 @@
               "title": "01-구조-흐름"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +201,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "69e3cf9b8c033c52",
+  "active": "38b825cee2e7b077",
   "lastOpenFiles": [
     "프로젝트/RobotPal/00-상태-요약.md",
     "프로젝트/온라인-합주-플랫폼.md",
