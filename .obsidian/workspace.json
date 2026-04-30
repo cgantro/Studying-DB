@@ -196,11 +196,29 @@
       "markdown-importer:마크다운 형식 불러오기 열기": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "QnA/개발기본기/CS_면접_질문_100.md",
     "QnA/개발기본기/CS_면접_답변_100.md",
     "QnA/기업면접/삼성SDS/SDS-프로젝트-매핑.md",
@@ -211,21 +229,6 @@
     "QnA/템플릿-기술답변.md",
     "프로젝트/템플릿-프로젝트.md",
     "QnA/QnA.md",
-    "QnA/CPU와 메모리/cpu-memory-ipc.md",
-    "QnA/네트워크/CS_면접_답변_100.md",
-    "QnA/네트워크/CS_면접_질문_100.md",
-    "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
-    "QnA/기업면접/삼성SDS/00_Index.md",
-    "CS공부/CS공부.md",
-    "CS공부/용어 모음집/버스.md",
-    "CS공부/용어 모음집/뮤텍스.md",
-    "CS공부/용어 모음집/명령어.md",
-    "CS공부/용어 모음집/메모리 매핑 입출력.md",
-    "CS공부/용어 모음집/가상 메모리.md",
-    "CS공부/언어/언어.md",
-    "CS공부/언어/C++/C++.md",
-    "CS공부/언어/C++/03_RAII와 동시성 실무.md",
-    "CS공부/언어/C++/01_C++17 핵심.md",
-    "CS공부/10_언어/10_언어.md"
+    "QnA/CPU와 메모리/cpu-memory-ipc.md"
   ]
 }
