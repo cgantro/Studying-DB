@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QnA/기업면접/삼성SDS/00_Index.md",
+                "file": "QnA/CPU와 메모리/cpu-memory-ipc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Index"
+              "title": "cpu-memory-ipc"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "QnA/기업면접/삼성SDS/00_Index.md",
     "QnA/기업면접/삼성SDS/SDS-핵심질문-40.md",
     "QnA/기업면접/삼성SDS/SDS-프로젝트-매핑.md",
     "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
@@ -229,7 +230,6 @@
     "QnA/컴퓨터구조/CS_면접_답변_100.md",
     "QnA/자료구조/CS_면접_질문_100.md",
     "QnA/자료구조/CS_면접_답변_100.md",
-    "QnA/기업면접/삼성SDS/00_Index.md",
     "QnA/인성/대표-답변.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
