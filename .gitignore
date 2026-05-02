@@ -5,3 +5,5 @@
 # Obsidian Git plugin conflict artifacts
 conflict-files-obsidian-git.md
 
+# Obsidian workspace state (frequently changes & causes conflicts)
+.obsidian/workspace.json
