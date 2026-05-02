@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +215,6 @@
     "기업/삼성SDS/01_기업-분석-요약.md",
     "기업/삼성SDS/02_직무-적합성.md",
     "QnA/기업면접/삼성SDS/SDS-모범답안-핵심.md",
-    "QnA/운영체제/address-space.md",
-    "인성 면접 질의 응답.md",
     "프로젝트/스티커/04-협업-규칙-문서화.md",
     "QnA/기업면접/삼성SDS/00_Index.md",
     "기업/삼성SDS/09_기술면접-PT-대비-프레임.md",
