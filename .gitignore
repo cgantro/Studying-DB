@@ -1,0 +1,7 @@
+# Obsidian plugin settings can contain secrets (API keys, tokens)
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/data.json.bak
+
+# Obsidian Git plugin conflict artifacts
+conflict-files-obsidian-git.md
+
