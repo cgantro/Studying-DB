@@ -30,7 +30,7 @@
 - Java는 OS/CPU용 기계어가 아니라 JVM용 **바이트코드**로 컴파일한다.
 - 각 플랫폼에 맞는 JVM이 바이트코드를 실행해 주기 때문에, 같은 `.class`가 여러 환경에서 동작한다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#Bytecode(.class)]]
+개념: [[CS공부/언어/Java/04_Java 기본#Bytecode]]
 
 ---
 
@@ -39,7 +39,7 @@
 - `javac`가 `.java`를 컴파일해서 만드는 **JVM용 중간 코드**다(`.class` 파일).
 - JVM이 로딩/검증 후 실행한다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#Bytecode(.class)]]
+개념: [[CS공부/언어/Java/04_Java 기본#Bytecode]]
 
 ---
 
@@ -61,7 +61,7 @@
 - `main`: JVM이 찾는 약속된 메서드 이름.
 - `String[] args`: 커맨드라인 인자.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`public static void main(String[] args)`]]
+개념: [[CS공부/언어/Java/04_Java 기본#main 메서드 시그니처]]
 
 ---
 
@@ -109,7 +109,7 @@
 - `==`는 primitive는 값 비교, reference는 참조 동일성 비교다.
 - `equals()`는 객체의 논리적 동등성 비교를 위해 제공되고, 클래스가 재정의할 수 있다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`==` vs `equals()` vs `hashCode()`]]
+개념: [[CS공부/언어/Java/04_Java 기본#동일성(==)과 동등성(equals), hashCode]]
 
 ---
 
@@ -118,7 +118,7 @@
 - 해시 컬렉션(`HashMap`, `HashSet`)의 계약 때문이다.
 - `equals()`가 `true`인 객체는 반드시 같은 `hashCode()`를 가져야 버킷 탐색이 일관된다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`==` vs `equals()` vs `hashCode()`]]
+개념: [[CS공부/언어/Java/04_Java 기본#동일성(==)과 동등성(equals), hashCode]]
 
 ---
 
@@ -127,7 +127,7 @@
 - 문자열은 공유/재사용되는 경우가 많아서, 값이 바뀌면 안전하지 않다(특히 String Pool).
 - immutable이면 `hashCode()` 캐싱 같은 최적화가 가능하고, 공유가 쉬워 멀티스레드에서 다루기 유리하다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`String` immutability와 String Pool]]
+개념: [[CS공부/언어/Java/04_Java 기본#String 불변성과 String Pool]]
 
 ---
 
@@ -137,7 +137,7 @@
 - `StringBuilder`는 가변이고 동기화가 없어 단일 스레드에서 빠르다.
 - `StringBuffer`는 가변이지만 동기화가 있어 멀티스레드에서 안전하게 쓰기 좋다(대신 오버헤드가 있을 수 있다).
 
-개념: [[CS공부/언어/Java/04_Java 기본#`String` / `StringBuilder` / `StringBuffer`]]
+개념: [[CS공부/언어/Java/04_Java 기본#String, StringBuilder, StringBuffer]]
 
 ---
 
@@ -146,7 +146,7 @@
 - `==`는 reference 타입에서 “내용”이 아니라 “참조 동일성”을 비교한다.
 - 내용 비교는 `equals()`를 써야 하고, 정렬/대소문자 무시 등 조건이 있으면 그에 맞는 메서드를 선택한다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`==` vs `equals()` vs `hashCode()`]]
+개념: [[CS공부/언어/Java/04_Java 기본#동일성(==)과 동등성(equals), hashCode]]
 
 ---
 
@@ -155,7 +155,7 @@
 - JVM이 문자열 리터럴을 재사용하기 위해 관리하는 풀이다.
 - 같은 리터럴 문자열을 여러 번 써도 재사용될 수 있어 메모리 절약에 도움이 된다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`String` immutability와 String Pool]]
+개념: [[CS공부/언어/Java/04_Java 기본#String 불변성과 String Pool]]
 
 ---
 
@@ -165,7 +165,7 @@
 - 메서드: 오버라이딩을 막는다.
 - 클래스: 상속을 막는다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`final`]]
+개념: [[CS공부/언어/Java/04_Java 기본#final 키워드]]
 
 ---
 
@@ -174,7 +174,7 @@
 - 인스턴스가 아니라 클래스에 귀속되는 멤버라는 뜻이다.
 - 모든 인스턴스가 값을 공유하므로 전역 상태처럼 동작할 수 있어, 동시성/테스트 관점에서 신중하게 써야 한다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`static`]]
+개념: [[CS공부/언어/Java/04_Java 기본#static 키워드]]
 
 ---
 
@@ -183,7 +183,7 @@
 - static 메서드는 객체가 없어도 호출되는데, instance 변수는 객체마다 값이 다르다.
 - 어떤 객체의 필드에 접근할지 결정할 수 없기 때문에 “직접 접근”이 불가능하고, 인스턴스를 통해 접근해야 한다.
 
-개념: [[CS공부/언어/Java/04_Java 기본#`static`]]
+개념: [[CS공부/언어/Java/04_Java 기본#static 키워드]]
 
 ---
 
@@ -193,4 +193,3 @@
 - reference type도 예외가 아니라, 객체 자체가 아니라 **참조값이 복사**되어 전달되는 것이다.
 
 개념: [[CS공부/언어/Java/04_Java 기본#Java는 pass-by-value인가?]]
-
