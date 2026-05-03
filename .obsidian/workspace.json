@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인성 면접 질의 응답.md",
+                "file": "프로젝트/스티커/05-AI 코드리뷰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인성 면접 질의 응답"
+              "title": "05-AI 코드리뷰"
             }
           }
         ]
@@ -200,8 +200,10 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
-    "진짜 면접 질문.md",
+    "프로젝트/스티커/00-상태-요약.md",
+    "프로젝트/스티커/05-AI 코드리뷰.md",
     "인성 면접 질의 응답.md",
+    "진짜 면접 질문.md",
     "프로젝트/RobotPal/01-구조-흐름.md",
     "프로젝트/RobotPal/00-상태-요약.md",
     "프로젝트/온라인-합주-플랫폼.md",
@@ -226,8 +228,6 @@
     "copilot/copilot-conversations",
     "기업/삼성SDS/00_Index.md",
     "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
-    "기업/AGENTS.md",
-    "AGENTs.md",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
     "프로젝트/스티커",
