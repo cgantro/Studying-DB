@@ -35,8 +35,7 @@
               "title": "AI 거버넌스"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "457dcaa99ad8ef35",
+  "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
-    "인성 면접 질의 응답.md",
     "AI 거버넌스.md",
+    "인성 면접 질의 응답.md",
     "프로젝트/스티커/05-AI 코드리뷰.md",
     "프로젝트/스티커/00-상태-요약.md",
     "진짜 면접 질문.md",
