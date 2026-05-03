@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS공부/12_면접/05-Java-질문-100개.md",
+                "file": "CS공부/10_언어/10_언어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-Java-질문-100개"
+              "title": "10_언어"
             }
           },
           {
@@ -214,9 +214,9 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "CS공부/12_면접/05-Java-질문-100개.md",
     "CS공부/12_면접/07-Spring-Boot-질문-100개.md",
     "CS공부/12_면접/06-C++-질문-100개.md",
-    "CS공부/12_면접/05-Java-질문-100개.md",
     "CS공부/12_면접/00_Index.md",
     "CS공부/12_면접/02_한 줄 답변.md",
     "CS공부/12_면접/01_자주 묻는 질문.md",
