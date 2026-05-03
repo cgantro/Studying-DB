@@ -32,7 +32,7 @@
 
 ---
 
-## Bytecode(.class)
+## Bytecode
 ### 개념
 - Java 소스를 컴파일(`javac`)하면 생성되는 **JVM용 중간 표현**이다.
 - OS/CPU에 종속적인 기계어가 아니라, JVM이 이해하는 명령 집합이다.
@@ -56,7 +56,7 @@
 
 ---
 
-## `public static void main(String[] args)`
+## main 메서드 시그니처
 ### 각 키워드 의미
 - `public`: JVM이 어디서든 엔트리포인트를 호출할 수 있게 공개.
 - `static`: 인스턴스 생성 없이 클래스 수준에서 호출 가능(프로그램 시작 시점에 객체가 없을 수 있음).
@@ -91,7 +91,7 @@
 
 ---
 
-## `==` vs `equals()` vs `hashCode()`
+## 동일성(==)과 동등성(equals), hashCode
 ### `==`와 `equals()`
 - `==`: primitive는 “값”, reference는 “참조(주소) 동일성”을 비교한다.
 - `equals()`: 객체의 “논리적 동등성” 비교를 위한 메서드(클래스가 재정의 가능).
@@ -102,7 +102,7 @@
 
 ---
 
-## `String` immutability와 String Pool
+## String 불변성과 String Pool
 ### `String`이 immutable인 이유(대표 포인트)
 - 문자열 리터럴 재사용(String Pool) 시, 값이 바뀌면 전역적으로 영향이 생길 수 있어 안전하지 않다.
 - `hashCode()` 캐싱 등 최적화에 유리하다.
@@ -114,7 +114,7 @@
 
 ---
 
-## `String` / `StringBuilder` / `StringBuffer`
+## String, StringBuilder, StringBuffer
 ### 차이
 - `String`: 불변(immutable)
 - `StringBuilder`: 가변(mutable), 동기화 없음(단일 스레드에 유리)
@@ -122,7 +122,7 @@
 
 ---
 
-## `final`
+## final 키워드
 ### 의미
 - 변수: 재할당 금지(참조 변수면 “참조 변경”만 막고, 객체 내부 변경까지 막는 건 아님)
 - 메서드: 오버라이딩 금지
@@ -130,7 +130,7 @@
 
 ---
 
-## `static`
+## static 키워드
 ### 의미
 - 인스턴스가 아니라 **클래스에 귀속**되는 멤버(공유 상태).
 
@@ -147,4 +147,3 @@
 ### 오해가 생기는 이유
 - reference type을 인자로 넘길 때 “객체 자체”가 아니라 “참조값”이 복사되어 전달된다.
 - 그래서 메서드 안에서 객체의 내부 상태 변경은 호출자에서도 보이지만, 참조 자체를 다른 객체로 바꾸는 것은 호출자에 반영되지 않는다.
-
