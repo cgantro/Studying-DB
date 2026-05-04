@@ -978,19 +978,17 @@
     
 3. Pipeline이란 무엇인가요?
     
-4. Job과 Step의 차이는 무엇인가요?
+4. CI에서 테스트를 자동화하는 이유는 무엇인가요?
     
-5. CI에서 테스트를 자동화하는 이유는 무엇인가요?
+5. PR 또는 MR 단위로 CI를 돌리는 이유는 무엇인가요?
     
-6. PR 또는 MR 단위로 CI를 돌리는 이유는 무엇인가요?
+6. main branch merge 후 CD를 돌리는 일반적인 이유는 무엇인가요?
     
-7. main branch merge 후 CD를 돌리는 일반적인 이유는 무엇인가요?
+7. CI 실패를 무시하면 어떤 문제가 생기나요?
     
-8. CI 실패를 무시하면 어떤 문제가 생기나요?
+8. Branch Protection 또는 Merge Rule은 왜 필요한가요?
     
-9. Branch Protection 또는 Merge Rule은 왜 필요한가요?
-    
-10. Required Check가 필요한 이유는 무엇인가요?
+9. Required Check가 필요한 이유는 무엇인가요?
     
 
 ## GitHub Actions
@@ -1127,6 +1125,22 @@
     
 70. 반대로 Quality Gate를 너무 느슨하게 잡으면 어떤 문제가 생기나요?
     
+71. CI runner가 외부 패키지 저장소에 접근하지 못할 때 어떤 원인을 의심할 수 있나요?
+    
+72. CI에서 `npm install`, `gradle build`, `apt-get update`가 간헐적으로 실패하는 이유는 무엇일 수 있나요?
+    
+73. GitHub-hosted runner와 self-hosted runner의 네트워크 접근 범위는 어떻게 다를 수 있나요?
+    
+74. GitLab CI에서 service container와 job container는 어떻게 통신하나요?
+    
+75. CI에서 테스트용 DB가 준비되기 전에 테스트가 실행되는 문제는 어떻게 해결하나요?
+    
+76. CI에서 외부 API 의존 테스트를 그대로 돌리면 어떤 문제가 생기나요?
+    
+77. Mock server나 stub server를 CI 테스트에 사용하는 이유는 무엇인가요?
+    
+78. 배포 단계에서 SSH 접속 실패 시 DNS, 방화벽, 키 권한을 어떻게 나눠 점검하나요?
+    
 
 ---
 
@@ -1209,7 +1223,7 @@
     
 33. Brotli는 Gzip과 어떤 차이가 있나요?
     
-34. Cache-Control Header는 어떤 역할을 하나요?
+34. Nginx에서 정적 리소스 캐시 정책을 설정할 때 어떤 지시어/헤더를 사용하고, 설정 위치에 따라 어떤 차이가 있나요?
     
 35. 정적 리소스에 긴 캐시 시간을 줄 때 주의할 점은 무엇인가요?
     
@@ -1268,6 +1282,24 @@
 59. Nginx와 API Gateway의 차이는 무엇인가요?
     
 60. Nginx 앞에 CDN을 두는 이유는 무엇인가요?
+    
+## DNS / Upstream
+
+61. Nginx upstream에 도메인을 넣었을 때 DNS 조회는 언제 수행되나요?
+    
+62. upstream 서버 IP가 바뀌었는데 Nginx가 계속 예전 IP로 요청할 수 있는 이유는 무엇인가요?
+    
+63. Nginx에서 `resolver` 지시어는 어떤 상황에서 사용하나요?
+    
+64. Docker Compose 환경에서 Nginx가 `backend` 같은 service name으로 백엔드 컨테이너에 접근하려면 무엇이 필요하나요?
+    
+65. Nginx 컨테이너와 백엔드 컨테이너가 같은 Docker network에 있어야 하는 이유는 무엇인가요?
+    
+66. Nginx가 HTTPS upstream에 연결할 때 SNI가 필요한 경우는 언제인가요?
+    
+67. Nginx에서 502와 504를 구분해서 봐야 하는 이유는 무엇인가요?
+    
+68. Nginx access log에서 upstream 응답 시간이 길면 어떤 병목을 의심할 수 있나요?
     
 
 ---
