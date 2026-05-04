@@ -1,6 +1,6 @@
 
 
-# 1. Java / JVM 질문 80개
+# 1. Java / JVM
 
 ## Java 기본
 
@@ -121,65 +121,103 @@
 55. Java에서 `System.gc()`를 직접 호출하는 것이 권장되지 않는 이유는 무엇인가요?
     
 
-## Java 멀티스레딩 / 동시성
-
-56. Java에서 스레드를 생성하는 방법에는 무엇이 있나요?
-    
-57. `Thread`, `Runnable`, `Callable`의 차이는 무엇인가요?
-    
-58. `Future`와 `CompletableFuture`의 차이는 무엇인가요?
-    
-59. `ExecutorService`를 사용하는 이유는 무엇인가요?
-    
-60. 스레드를 직접 생성하는 것보다 스레드 풀을 사용하는 이유는 무엇인가요?
-    
-61. CPU-bound 작업과 I/O-bound 작업에서 스레드 풀 크기 전략은 어떻게 달라지나요?
-    
-62. `synchronized`는 어떤 문제를 해결하나요?
-    
-63. 객체 락과 클래스 락의 차이는 무엇인가요?
-    
-64. `volatile`은 어떤 문제를 해결하나요?
-    
-65. `volatile`이 원자성을 보장하지 못한다는 말은 무슨 뜻인가요?
-    
-66. `AtomicInteger`는 어떻게 동시성 문제를 해결하나요?
-    
-67. CAS란 무엇인가요?
-    
-68. `ReentrantLock`은 `synchronized`와 무엇이 다른가요?
-    
-69. `ConcurrentHashMap`은 일반 `HashMap`과 무엇이 다른가요?
-    
-70. Immutable 객체가 멀티스레딩에서 유리한 이유는 무엇인가요?
-    
-
 ## Java 8 / 11 / 17 / 21 변화
 
-71. Java 8에서 도입된 주요 기능은 무엇인가요?
+56. Java 8에서 도입된 주요 기능은 무엇인가요?
     
-72. Lambda Expression은 기존 익명 클래스와 무엇이 다른가요?
+57. Lambda Expression은 기존 익명 클래스와 무엇이 다른가요?
     
-73. Stream API의 장점과 단점은 무엇인가요?
+58. Stream API의 장점과 단점은 무엇인가요?
     
-74. Optional은 어떤 문제를 해결하기 위해 도입되었나요?
+59. Optional은 어떤 문제를 해결하기 위해 도입되었나요?
     
-75. Java 8 default method는 왜 필요했나요?
+60. Java 8 default method는 왜 필요했나요?
     
-76. Java 11이 기업 환경에서 많이 쓰이는 이유는 무엇인가요?
+61. Java 11이 기업 환경에서 많이 쓰이는 이유는 무엇인가요?
     
-77. Java 11의 `var`는 어떤 상황에서 유용하고 언제 피해야 하나요?
+62. Java 11의 `var`는 어떤 상황에서 유용하고 언제 피해야 하나요?
     
-78. Java 17의 `record`는 어떤 문제를 해결하나요?
+63. Java 17의 `record`는 어떤 문제를 해결하나요?
     
-79. Java 17의 sealed class는 어떤 상황에서 유용한가요?
+64. Java 17의 sealed class는 어떤 상황에서 유용한가요?
     
-80. Java 21의 Virtual Thread는 기존 Platform Thread와 무엇이 다른가요?
+65. Java 21의 Virtual Thread는 기존 Platform Thread와 무엇이 다른가요?
     
 
 ---
 
-# 2. 객체지향 질문 60개
+# 2. Java Collection / 동시성 / 네트워크
+
+## Collection
+
+1. `ArrayList`와 `LinkedList`의 차이는 무엇인가요?
+    
+2. `HashMap`의 내부 동작 방식을 설명해보세요.
+    
+3. `HashMap`에서 해시 충돌은 어떻게 처리되나요?
+    
+4. `HashMap`과 `ConcurrentHashMap`의 차이는 무엇인가요?
+    
+5. `HashSet`은 중복을 어떻게 판단하나요?
+    
+6. `TreeMap`과 `HashMap`의 차이는 무엇인가요?
+    
+7. `PriorityQueue`는 내부적으로 어떤 자료구조를 사용하나요?
+    
+8. `Stack`보다 `Deque`를 권장하는 이유는 무엇인가요?
+    
+9. `Iterator` 사용 중 Collection을 수정하면 어떤 문제가 생기나요?
+    
+10. `Collections.synchronizedList()`와 `CopyOnWriteArrayList`의 차이는 무엇인가요?
+    
+
+## Java 멀티스레딩 / 동시성
+
+11. Java에서 스레드를 생성하는 방법에는 무엇이 있나요?
+    
+12. `Thread`, `Runnable`, `Callable`의 차이는 무엇인가요?
+    
+13. `Future`와 `CompletableFuture`의 차이는 무엇인가요?
+    
+14. `ExecutorService`를 사용하는 이유는 무엇인가요?
+    
+15. 스레드를 직접 생성하는 것보다 스레드 풀을 사용하는 이유는 무엇인가요?
+    
+16. CPU-bound 작업과 I/O-bound 작업에서 스레드 풀 크기 전략은 어떻게 달라지나요?
+    
+17. `synchronized`는 어떤 문제를 해결하나요?
+    
+18. 객체 락과 클래스 락의 차이는 무엇인가요?
+    
+19. `volatile`은 어떤 문제를 해결하나요?
+    
+20. `volatile`이 원자성을 보장하지 못한다는 말은 무슨 뜻인가요?
+    
+21. `AtomicInteger`는 어떻게 동시성 문제를 해결하나요?
+    
+22. CAS란 무엇인가요?
+    
+23. `ReentrantLock`은 `synchronized`와 무엇이 다른가요?
+    
+24. Immutable 객체가 멀티스레딩에서 유리한 이유는 무엇인가요?
+    
+
+## Java Network / DNS
+
+25. Java에서 `UnknownHostException`은 어떤 경우에 발생하나요?
+    
+26. Java HTTP Client에서 connect timeout과 read timeout의 차이는 무엇인가요?
+    
+27. 외부 API 호출 시 timeout을 설정하지 않으면 어떤 문제가 생기나요?
+    
+28. Java 애플리케이션에서 DNS 변경이 바로 반영되지 않을 수 있는 이유는 무엇인가요?
+    
+29. Java에서 TLS 인증서 검증 실패 시 어떤 예외가 발생할 수 있나요?
+    
+
+---
+
+# 3. 객체지향 질문 60개
 
 ## OOP 기본
 
@@ -321,7 +359,7 @@
 
 ---
 
-# 3. Spring Boot 질문 90개
+# 4. Spring Boot
 
 ## Spring 기본
 
@@ -391,17 +429,17 @@
 
 ## Web / REST
 
-31. REST란 무엇인가요?
+31. Spring Boot에서 REST API를 구현할 때 Controller의 책임은 어디까지라고 보나요?
     
-32. RESTful API 설계 원칙을 설명해보세요.
+32. Spring Boot에서 HTTP Method별 요청을 매핑하는 어노테이션은 무엇인가요?
     
-33. GET, POST, PUT, PATCH, DELETE의 차이는 무엇인가요?
+33. Spring Boot에서 상태 코드와 응답 바디를 함께 제어하려면 어떤 방식을 사용하나요?
     
-34. PUT과 PATCH의 차이는 무엇인가요?
+34. Spring Boot에서 예외별 HTTP Status Code를 어떻게 매핑하나요?
     
-35. HTTP Status Code 200, 201, 204의 차이는 무엇인가요?
+35. Spring Boot에서 CORS 설정을 전역으로 적용하는 방법은 무엇인가요?
     
-36. 400, 401, 403, 404의 차이는 무엇인가요?
+36. Spring Security가 적용된 상황에서 CORS 설정 위치를 잘못 잡으면 어떤 문제가 생기나요?
     
 37. `@RequestBody`, `@RequestParam`, `@PathVariable`의 차이는 무엇인가요?
     
@@ -415,11 +453,11 @@
     
 42. API 응답을 공통 포맷으로 감싸는 것의 장단점은 무엇인가요?
     
-43. CORS란 무엇인가요?
+43. API 버전 관리는 어떻게 할 수 있나요?
     
-44. 모바일 앱과 서버 통신에서도 CORS가 필요한가요?
+44. REST API에서 세션을 잘 쓰지 않는 이유는 무엇인가요?
     
-45. API 버전 관리는 어떻게 할 수 있나요?
+45. Idempotency(멱등성)는 무엇이고 왜 중요한가요?
     
 
 ## Spring MVC / 요청 처리 / 스레드
