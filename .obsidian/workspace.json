@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS공부/12_면접/전체 질문 DB.md",
+                "file": "기업/삼성SDS/자기소개서 3번 문항 AI 거버넌스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전체 질문 DB"
+              "title": "자기소개서 3번 문항 AI 거버넌스"
             }
           },
           {
@@ -214,14 +214,18 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
-    "CS공부/12_면접/07-Spring-Boot-질문-100개.md",
+    "기업/삼성SDS/09_기술면접-PT-대비-프레임.md",
+    "기업/삼성SDS/00_Index.md",
+    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
+    "기업/삼성SDS/자기소개서 3번 문항 AI 거버넌스.md",
+    "기업/삼성SDS/템플릿-회사맞춤답변.md",
     "CS공부/12_면접/전체 질문 DB.md",
+    "CS공부/12_면접/07-Spring-Boot-질문-100개.md",
     "CS공부/12_면접/09-객체지향-답변.md",
     "CS공부/12_면접/01_자주 묻는 질문.md",
     "CS공부/12_면접/06-C++-질문-100개.md",
     "CS공부/언어/Java/05_객체지향.md",
     "CS공부/12_면접/05-Java-질문-100개.md",
-    "기업/삼성SDS/자기소개서 3번 문항 AI 거버넌스.md",
     "CS공부/언어/Java/04_Java 기본.md",
     "CS공부/언어/Java/01_Java 17 핵심.md",
     "CS공부/언어/Java/Java.md",
@@ -237,11 +241,7 @@
     "CS공부/10_언어/10_언어.md",
     "CS공부/12_면접/00_Index.md",
     "CS공부/12_면접/02_한 줄 답변.md",
-    "진짜 면접 질문.md",
-    "인성 면접 질의 응답.md",
-    "프로젝트/영묘/05-면접-질문.md",
     "copilot/copilot-conversations",
-    "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "프로젝트/mm-bot",
     "프로젝트/영묘",
     "프로젝트/스티커",
