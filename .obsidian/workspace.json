@@ -214,6 +214,7 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "CS공부/11_개발 기본기/08_Nginx/01_Nginx-Reverse Proxy(면접 DB 10) 개념정리.md",
     "CS공부/06_네트워크/10_웹(HTTP-인증-CORS-DNS)",
     "CS공부/11_개발 기본기/08_Nginx",
     "CS공부/11_개발 기본기/07_빌드와 배포/04_GitHub Actions-GitLab CI(면접 DB 09) 개념정리.md",
@@ -248,7 +249,6 @@
     "프로젝트/영묘",
     "프로젝트/스티커",
     "프로젝트/Autowing-Car",
-    "프로젝트/RobotPal",
-    "기업/삼성SDS/26-03-23_삼성SDS 소프트웨어.docx"
+    "프로젝트/RobotPal"
   ]
 }
