@@ -550,7 +550,7 @@
     
 86. Cookie 기반 JWT와 Authorization Header 기반 JWT의 차이는 무엇인가요?
     
-87. CSRF와 XSS의 차이는 무엇인가요?
+87. Spring Security에서 CSRF 보호를 적용/비활성화할 때 판단 기준은 무엇인가요?
     
 88. HttpOnly, Secure, SameSite 옵션의 의미는 무엇인가요?
     
@@ -1457,40 +1457,37 @@
     
 80. 웹 서비스 장애 분석 시 클라이언트, Nginx, WAS, DB 중 어디부터 확인하겠나요?
     
-## 요청 흐름
+## DNS / 요청 흐름 / 네트워크 디버깅
 
-1. 브라우저 주소창에 URL을 입력했을 때 서버 응답을 받기까지의 흐름을 설명해보세요.
-2. DNS 조회, TCP 연결, TLS Handshake, HTTP 요청은 어떤 순서로 일어나나요?
-3. 브라우저가 도메인 이름만으로 서버에 접속할 수 없는 이유는 무엇인가요?
-4. DNS 조회 결과로 IP를 얻은 뒤에는 어떤 연결 과정이 필요한가요?
-5. HTTPS 요청에서 TLS Handshake는 왜 필요한가요?
-6. HTTP 요청과 TCP 연결은 어떤 관계인가요?
-7. Keep-Alive는 왜 필요한가요?
-8. 웹 요청이 느릴 때 DNS, 연결, 서버 처리 중 어디가 병목인지 어떻게 구분하나요?
-
-## DNS 기본
-
-9. DNS는 어떤 역할을 하나요?
-10. 도메인 이름과 IP 주소의 관계를 설명해보세요.
-11. DNS Resolver는 어떤 역할을 하나요?
-12. DNS Cache는 왜 필요한가요?
-13. DNS TTL은 무엇인가요?
-14. DNS 변경 후 바로 반영되지 않는 이유는 무엇인가요?
-15. A Record와 CNAME Record의 차이는 무엇인가요?
-16. A Record와 AAAA Record의 차이는 무엇인가요?
-17. `www.example.com`과 `example.com`이 서로 다른 서버를 가리킬 수 있는 이유는 무엇인가요?
-18. DNS 조회는 브라우저, OS, 공유기, 외부 DNS 서버 중 어디에서 캐시될 수 있나요?
-
-## 네트워크 연결 / HTTP
-
-19. TCP 3-way handshake는 왜 필요한가요?
-20. HTTP와 HTTPS의 차이는 무엇인가요?
-21. TLS 인증서는 어떤 역할을 하나요?
-22. 인증서가 만료되면 브라우저에서 어떤 문제가 발생하나요?
-23. HTTP/1.1과 HTTP/2의 차이는 무엇인가요?
-24. HTTP/2의 multiplexing은 어떤 장점이 있나요?
-25. CDN은 네트워크 관점에서 어떤 역할을 하나요?
-26. CDN을 사용하면 사용자가 더 가까운 서버에서 리소스를 받을 수 있는 이유는 무엇인가요?
+81. 브라우저 주소창에 URL을 입력했을 때 DNS, TCP, TLS, HTTP 요청 순서로 설명해보세요.
+    
+82. DNS는 어떤 역할을 하나요?
+    
+83. DNS Resolver는 어떤 역할을 하나요?
+    
+84. DNS Cache는 왜 필요한가요?
+    
+85. DNS TTL은 무엇이고, DNS 변경 후 바로 반영되지 않는 이유는 무엇인가요?
+    
+86. A Record, AAAA Record, CNAME Record의 차이는 무엇인가요?
+    
+87. DNS 조회는 브라우저, OS, 공유기, 외부 DNS 서버 중 어디에서 캐시될 수 있나요?
+    
+88. DNS 조회가 실패하면 브라우저에서는 어떤 형태의 오류가 발생하나요?
+    
+89. DNS 조회는 성공했지만 TCP 연결이 실패하면 어떤 원인을 의심할 수 있나요?
+    
+90. TCP 연결은 성공했지만 TLS Handshake가 실패하면 어떤 문제를 의심할 수 있나요?
+    
+91. 브라우저 개발자 도구 Network 탭에서 DNS Lookup, Initial Connection, SSL, TTFB는 각각 무엇을 의미하나요?
+    
+92. 도메인은 맞는데 접속이 안 될 때 DNS, Nginx, WAS, 방화벽 중 어떤 순서로 확인하겠나요?
+    
+93. `nslookup` 또는 `dig`는 어떤 상황에서 사용하나요?
+    
+94. HTTP 응답이 느릴 때 DNS 문제인지 서버 처리 문제인지 어떻게 구분하나요?
+    
+95. CDN은 DNS와 어떤 관계가 있나요?
 ---
 
 # 우선순위
