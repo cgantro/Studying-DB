@@ -108,6 +108,6 @@
 95. health check는 왜 필요한가요?
 96. Redis Cache를 사용하는 이유는 무엇인가요?
 97. Cache Aside 패턴을 설명해보세요.
-98. MQTT와 HTTP의 차이는 무엇인가요?
-99. WebSocket과 HTTP polling의 차이는 무엇인가요?
-100. Spring Boot 서버를 EC2 단일 인스턴스에 배포할 때 고려할 점은 무엇인가요?
+98. `RestTemplate`, `RestClient`, `WebClient`의 차이는 무엇인가요?
+99. Spring Boot에서 외부 API 호출 시 timeout을 어디에 설정하나요?
+100. DB Connection Pool(HikariCP)이 고갈되면 애플리케이션에는 어떤 증상이 나타나나요?
