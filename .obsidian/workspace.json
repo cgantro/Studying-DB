@@ -214,6 +214,9 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "CS공부/06_네트워크/10_웹(HTTP-인증-CORS-DNS)",
+    "CS공부/11_개발 기본기/08_Nginx",
+    "CS공부/11_개발 기본기/07_빌드와 배포/04_GitHub Actions-GitLab CI(면접 DB 09) 개념정리.md",
     "CS공부/05_운영체제/08_가상화와 컨테이너/04_Docker-Container-Network(면접 DB 08) 개념정리.md",
     "CS공부/언어/C++/05_C++ 메모리-스레딩-네트워크(면접 DB 07) 개념정리.md",
     "CS공부/언어/C++/04_Modern C++20(면접 DB 06) 개념정리.md",
@@ -238,8 +241,6 @@
     "CS공부/12_면접/전체 질문 DB/10-Nginx-Reverse-Proxy-질문.md",
     "CS공부/12_면접/전체 질문 DB/09-GitHub-Actions-GitLab-CI-질문.md",
     "CS공부/12_면접/전체 질문 DB/08-Docker-Container-Network-질문.md",
-    "CS공부/12_면접/전체 질문 DB/07-Cpp-메모리-스레딩-네트워크-질문.md",
-    "CS공부/12_면접/전체 질문 DB/06-Cpp-Modern-Cpp20-질문.md",
     "CS공부/12_면접/전체 질문 DB",
     "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "copilot/copilot-conversations",
@@ -248,7 +249,6 @@
     "프로젝트/스티커",
     "프로젝트/Autowing-Car",
     "프로젝트/RobotPal",
-    "기업/삼성SDS/26-03-23_삼성SDS 소프트웨어.docx",
-    "copilot/copilot-custom-prompts"
+    "기업/삼성SDS/26-03-23_삼성SDS 소프트웨어.docx"
   ]
 }
