@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS공부/12_면접/전체 질문 DB.md",
+                "file": "인성 면접 질의 응답.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전체 질문 DB"
+              "title": "인성 면접 질의 응답"
             }
           },
           {
@@ -214,6 +214,9 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
+    "진짜 면접 질문.md",
+    "CS공부/언어/Java/06_Java-JVM(면접 DB 01) 개념정리.md",
+    "CS공부/12_면접/전체 질문 DB.md",
     "CS공부/06_네트워크/10_웹(HTTP-인증-CORS-DNS)/10_웹(HTTP-인증-CORS-DNS).md",
     "CS공부/06_네트워크/10_웹(HTTP-인증-CORS-DNS)/01_웹(면접 DB 11) 개념정리.md",
     "CS공부/11_개발 기본기/08_Nginx/01_Nginx-Reverse Proxy(면접 DB 10) 개념정리.md",
@@ -227,7 +230,6 @@
     "CS공부/프레임워크/Spring Boot/04_Spring Boot Web(면접 DB 04) 개념정리.md",
     "CS공부/10_언어/07_객체지향/03_객체지향(면접 DB 03) 개념정리.md",
     "CS공부/언어/Java/07_Java-Collection-동시성-네트워크(면접 DB 02) 개념정리.md",
-    "CS공부/언어/Java/06_Java-JVM(면접 DB 01) 개념정리.md",
     "CS공부/12_면접/전체 질문 DB/04-Spring-Boot-답변.md",
     "CS공부/12_면접/전체 질문 DB/06-Cpp-Modern-Cpp20-답변.md",
     "CS공부/12_면접/전체 질문 DB/07-Cpp-메모리-스레딩-네트워크-답변.md",
@@ -240,8 +242,6 @@
     "CS공부/12_면접/전체 질문 DB/01-Java-JVM-답변.md",
     "CS공부/12_면접/전체 질문 DB/05-Spring-Boot-운영-외부연동-커넥션풀-답변.md",
     "CS공부/12_면접/전체 질문 DB/_우선순위.md",
-    "CS공부/12_면접/전체 질문 DB/11-Web-HTTP-인증-CORS-DNS-질문.md",
-    "CS공부/12_면접/전체 질문 DB/10-Nginx-Reverse-Proxy-질문.md",
     "CS공부/12_면접/전체 질문 DB",
     "기업/삼성SDS/(삼성SDS) 직무소개 - SW.pdf",
     "copilot/copilot-conversations",
