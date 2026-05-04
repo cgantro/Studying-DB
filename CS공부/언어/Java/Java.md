@@ -5,6 +5,8 @@
 - [[CS공부/언어/Java/01_Java 17 핵심]]
 - [[CS공부/언어/Java/02_Java 21 핵심]]
 - [[CS공부/언어/Java/03_JVM 메모리와 GC 실무]]
+- [[CS공부/언어/Java/06_Java-JVM(면접 DB 01) 개념정리]]
+- [[CS공부/언어/Java/07_Java-Collection-동시성-네트워크(면접 DB 02) 개념정리]]
 
 ## 정의
 - Java는 JVM 위에서 동작하는 객체지향 언어다.

@@ -4,6 +4,8 @@
 - [[CS공부/프레임워크/Spring Boot/01_핵심 구조]]
 - [[CS공부/프레임워크/Spring Boot/02_자동설정과 Starter]]
 - [[CS공부/프레임워크/Spring Boot/03_운영 설정과 성능]]
+- [[CS공부/프레임워크/Spring Boot/04_Spring Boot Web(면접 DB 04) 개념정리]]
+- [[CS공부/프레임워크/Spring Boot/05_Spring Boot 운영-외부연동-커넥션풀(면접 DB 05) 개념정리]]
 
 ## 정의
 - Spring Boot는 스프링 기반 애플리케이션을 빠르게 구성/운영하기 위한 프레임워크다.
