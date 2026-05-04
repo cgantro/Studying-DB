@@ -48,6 +48,10 @@
    - 질문: [[CS공부/12_면접/전체 질문 DB/11-Web-HTTP-인증-CORS-DNS-질문]]
    - 답변: [[CS공부/12_면접/전체 질문 DB/11-Web-HTTP-인증-CORS-DNS-답변]]
    - 개념정리: [[CS공부/06_네트워크/10_웹(HTTP-인증-CORS-DNS)/01_웹(면접 DB 11) 개념정리]]
+12. DB / SQL / PostgreSQL
+   - 질문: [[CS공부/12_면접/전체 질문 DB/12-DB-PostgreSQL-질문]]
+   - 답변: [[CS공부/12_면접/전체 질문 DB/12-DB-PostgreSQL-답변]]
+   - 개념정리: [[CS공부/07_데이터베이스/08_DB-PostgreSQL(면접 DB 12) 개념정리]]
 
 ---
 
