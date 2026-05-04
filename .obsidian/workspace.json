@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS공부/언어/Java/05_객체지향.md",
+                "file": "CS공부/12_면접/06-C++-질문-100개.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_객체지향"
+              "title": "06-C++-질문-100개"
             }
           },
           {
@@ -214,8 +214,8 @@
   },
   "active": "69e3cf9b8c033c52",
   "lastOpenFiles": [
-    "CS공부/12_면접/05-Java-질문-100개.md",
     "CS공부/언어/Java/05_객체지향.md",
+    "CS공부/12_면접/05-Java-질문-100개.md",
     "CS공부/12_면접/09-객체지향-답변.md",
     "기업/삼성SDS/자기소개서 3번 문항 AI 거버넌스.md",
     "CS공부/언어/Java/04_Java 기본.md",
