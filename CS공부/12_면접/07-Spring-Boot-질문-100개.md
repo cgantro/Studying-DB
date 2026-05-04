@@ -25,12 +25,12 @@
 20. 환경변수로 설정을 주입하는 이유는 무엇인가요?
 
 ## Web / REST API
-21. REST란 무엇인가요?
-22. RESTful API 설계 원칙을 설명해보세요.
-23. GET, POST, PUT, PATCH, DELETE의 차이는 무엇인가요?
-24. PUT과 PATCH의 차이는 무엇인가요?
-25. HTTP status code 200, 201, 204의 차이는 무엇인가요?
-26. 400, 401, 403, 404의 차이는 무엇인가요?
+21. Spring Boot에서 REST API를 구현할 때 Controller의 책임은 어디까지라고 보나요?
+22. Spring Boot에서 HTTP Method별 요청을 매핑하는 어노테이션은 무엇인가요?
+23. Spring Boot에서 상태 코드와 응답 바디를 함께 제어하려면 어떤 방식을 사용하나요?
+24. Spring Boot에서 예외별 HTTP Status Code를 어떻게 매핑하나요?
+25. Spring Boot에서 CORS 설정을 전역으로 적용하는 방법은 무엇인가요?
+26. Spring Security가 적용된 상황에서 CORS 설정 위치를 잘못 잡으면 어떤 문제가 생기나요?
 27. RequestBody와 RequestParam의 차이는 무엇인가요?
 28. PathVariable과 RequestParam의 차이는 무엇인가요?
 29. DTO를 사용하는 이유는 무엇인가요?
@@ -39,8 +39,8 @@
 32. `@Valid`와 `@Validated`의 차이는 무엇인가요?
 33. Global Exception Handler는 왜 필요한가요?
 34. `@ControllerAdvice`는 어떤 역할을 하나요?
-35. CORS란 무엇인가요?
-36. 모바일 앱에서도 CORS가 필요한가요?
+35. `@CrossOrigin`을 controller/method 수준에 적용할 때 장단점은 무엇인가요?
+36. Preflight(OPTIONS) 요청이 401/403으로 떨어질 때 어떤 설정을 의심해야 하나요?
 37. Cookie 기반 인증과 Header 기반 인증의 차이는 무엇인가요?
 38. REST API에서 세션을 잘 쓰지 않는 이유는 무엇인가요?
 39. API 버전 관리는 어떻게 할 수 있나요?
@@ -111,4 +111,3 @@
 98. MQTT와 HTTP의 차이는 무엇인가요?
 99. WebSocket과 HTTP polling의 차이는 무엇인가요?
 100. Spring Boot 서버를 EC2 단일 인스턴스에 배포할 때 고려할 점은 무엇인가요?
-

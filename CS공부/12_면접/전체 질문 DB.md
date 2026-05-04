@@ -965,6 +965,24 @@
     
 60. Docker Compose 기반 단일 서버 배포의 한계는 무엇인가요?
     
+## Docker Compose DNS / Network
+
+61. Docker Compose에서 service 이름으로 컨테이너에 접근할 수 있는 이유는 무엇인가요?
+    
+62. 같은 Docker network에 있지 않은 컨테이너끼리 service name으로 접근할 수 없는 이유는 무엇인가요?
+    
+63. Docker Compose 환경에서 앱 컨테이너가 `localhost`로 다른 컨테이너(DB 등)에 접속하면 실패하는 이유는 무엇인가요?
+    
+64. 컨테이너에서 host machine의 서비스에 접근하려면 어떤 방법을 사용할 수 있나요?
+    
+65. Docker Compose에서 `ports`와 `expose`의 차이는 무엇인가요?
+    
+66. 컨테이너 재시작 후 IP가 바뀌어도 service name 접근이 유리한 이유는 무엇인가요?
+    
+67. Docker에서 DNS 문제가 발생했을 때 어떤 명령어로 확인할 수 있나요?
+    
+68. Docker Compose에서 DB는 떴지만 애플리케이션이 연결 실패하는 이유는 무엇일 수 있나요?
+    
 
 ---
 
