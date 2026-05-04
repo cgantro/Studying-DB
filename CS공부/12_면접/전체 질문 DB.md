@@ -217,7 +217,7 @@
 
 ---
 
-# 3. 객체지향 질문 60개
+# 3. 객체지향
 
 ## OOP 기본
 
@@ -688,111 +688,145 @@
     
 44. Object Slicing이란 무엇인가요?
     
-45. Composition이 Inheritance보다 나은 경우는 언제인가요?
+45. C++에서 상속(가상 함수) 기반 다형성을 쓰기보다 Composition이나 정적 다형성(Template)을 선택하는 기준은 무엇인가요?
     
-
-## C++ 메모리 관리
-
-46. C++에서 메모리 관리를 개발자가 직접 신경 써야 하는 이유는 무엇인가요?
-    
-47. Stack 객체와 Heap 객체의 차이는 무엇인가요?
-    
-48. C++에서 메모리 누수가 발생하는 대표적인 경우는 무엇인가요?
-    
-49. Dangling Pointer가 발생하는 대표적인 경우는 무엇인가요?
-    
-50. Double Free는 왜 위험한가요?
-    
-51. RAII란 무엇인가요?
-    
-52. RAII가 예외 안정성과 어떤 관련이 있나요?
-    
-53. `new/delete`를 직접 사용하는 것이 위험한 이유는 무엇인가요?
-    
-54. Smart Pointer를 사용하는 이유는 무엇인가요?
-    
-55. `unique_ptr`은 언제 사용하나요?
-    
-56. `shared_ptr`은 언제 사용하나요?
-    
-57. `weak_ptr`은 왜 필요한가요?
-    
-58. shared_ptr 순환 참조 문제를 설명해보세요.
-    
-59. `make_unique`와 `make_shared`를 사용하는 이유는 무엇인가요?
-    
-60. Shallow Copy와 Deep Copy의 차이는 무엇인가요?
-    
-61. Memory Alignment란 무엇인가요?
-    
-62. Cache Locality가 성능에 미치는 영향은 무엇인가요?
-    
-63. Stack Overflow는 언제 발생하나요?
-    
-64. Heap Fragmentation이란 무엇인가요?
-    
-65. 실시간 처리 코드에서 동적 할당을 줄여야 하는 이유는 무엇인가요?
-    
-
 ## Move / Template / STL
 
-66. Move Semantics가 필요한 이유는 무엇인가요?
+46. Move Semantics가 필요한 이유는 무엇인가요?
     
-67. lvalue와 rvalue의 차이는 무엇인가요?
+47. lvalue와 rvalue의 차이는 무엇인가요?
     
-68. rvalue reference란 무엇인가요?
+48. rvalue reference란 무엇인가요?
     
-69. `std::move`는 실제로 객체를 이동시키나요?
+49. `std::move`는 실제로 객체를 이동시키나요?
     
-70. Perfect Forwarding이란 무엇인가요?
+50. Perfect Forwarding이란 무엇인가요?
     
-71. STL의 주요 구성 요소를 설명해보세요.
+51. STL의 주요 구성 요소를 설명해보세요.
     
-72. `vector`와 `array`의 차이는 무엇인가요?
+52. `vector`와 `array`의 차이는 무엇인가요?
     
-73. `vector`와 `list`의 차이는 무엇인가요?
+53. `vector`와 `list`의 차이는 무엇인가요?
     
-74. `vector`에서 `reserve()`와 `resize()`의 차이는 무엇인가요?
+54. `vector`에서 `reserve()`와 `resize()`의 차이는 무엇인가요?
     
-75. `map`과 `unordered_map`의 차이는 무엇인가요?
+55. `map`과 `unordered_map`의 차이는 무엇인가요?
     
-76. Iterator invalidation이란 무엇인가요?
+56. Iterator invalidation이란 무엇인가요?
     
-77. Template을 사용하는 이유는 무엇인가요?
+57. Template을 사용하는 이유는 무엇인가요?
     
-78. Template Specialization이란 무엇인가요?
+58. Template Specialization이란 무엇인가요?
     
-79. Compile-time Polymorphism과 Runtime Polymorphism의 차이는 무엇인가요?
+59. Compile-time Polymorphism과 Runtime Polymorphism의 차이는 무엇인가요?
     
-80. `constexpr`은 어떤 상황에서 사용하나요?
+60. `constexpr`은 어떤 상황에서 사용하나요?
     
+## C++20 변화
 
-## C++ 멀티스레딩 / C++11~20 변화
-
-81. C++에서 `std::thread`는 어떻게 사용하나요?
+61. C++20의 `concept`은 Template 코드의 어떤 문제를 해결하나요?
     
-82. `join()`과 `detach()`의 차이는 무엇인가요?
-    
-83. `std::mutex`는 어떤 문제를 해결하나요?
-    
-84. `std::lock_guard`와 `std::unique_lock`의 차이는 무엇인가요?
-    
-85. `std::condition_variable`은 어떤 상황에서 사용하나요?
-    
-86. `std::atomic`은 어떤 상황에서 사용하나요?
-    
-87. mutex와 atomic의 차이는 무엇인가요?
-    
-88. Producer-Consumer 패턴을 C++에서 어떻게 구현할 수 있나요?
-    
-89. C++20의 `concept`은 Template 코드의 어떤 문제를 해결하나요?
-    
-90. C++20의 coroutine은 어떤 상황에서 유용한가요?
+62. C++20의 coroutine은 어떤 상황에서 유용한가요?
     
 
 ---
 
-# 5. Docker / Container 질문 60개
+# 7. C++ 메모리 / 스레딩 / 네트워크
+
+## 메모리 / RAII / 스마트 포인터
+
+1. C++에서 메모리 관리를 개발자가 직접 신경 써야 하는 이유는 무엇인가요?
+    
+2. Stack 객체와 Heap 객체의 차이는 무엇인가요?
+    
+3. C++에서 메모리 누수가 발생하는 대표적인 경우는 무엇인가요?
+    
+4. Dangling Pointer가 발생하는 대표적인 경우는 무엇인가요?
+    
+5. Double Free는 왜 위험한가요?
+    
+6. RAII란 무엇인가요?
+    
+7. RAII가 예외 안정성과 어떤 관련이 있나요?
+    
+8. `new/delete`를 직접 사용하는 것이 위험한 이유는 무엇인가요?
+    
+9. Smart Pointer를 사용하는 이유는 무엇인가요?
+    
+10. `unique_ptr`은 언제 사용하나요?
+    
+11. `shared_ptr`은 언제 사용하나요?
+    
+12. `weak_ptr`은 왜 필요한가요?
+    
+13. shared_ptr 순환 참조 문제를 설명해보세요.
+    
+14. `make_unique`와 `make_shared`를 사용하는 이유는 무엇인가요?
+    
+15. Shallow Copy와 Deep Copy의 차이는 무엇인가요?
+    
+16. Memory Alignment란 무엇인가요?
+    
+17. Cache Locality가 성능에 미치는 영향은 무엇인가요?
+    
+18. Stack Overflow는 언제 발생하나요?
+    
+19. Heap Fragmentation이란 무엇인가요?
+    
+20. 실시간 처리 코드에서 동적 할당을 줄여야 하는 이유는 무엇인가요?
+    
+## 멀티스레딩
+
+21. C++에서 `std::thread`는 어떻게 사용하나요?
+    
+22. `join()`과 `detach()`의 차이는 무엇인가요?
+    
+23. `std::mutex`는 어떤 문제를 해결하나요?
+    
+24. `std::lock_guard`와 `std::unique_lock`의 차이는 무엇인가요?
+    
+25. `std::condition_variable`은 어떤 상황에서 사용하나요?
+    
+26. `std::atomic`은 어떤 상황에서 사용하나요?
+    
+27. mutex와 atomic의 차이는 무엇인가요?
+    
+28. Producer-Consumer 패턴을 C++에서 어떻게 구현할 수 있나요?
+    
+## Network
+
+29. C++ 표준 라이브러리만으로 네트워크 프로그래밍이 제한적인 이유는 무엇인가요?
+    
+30. TCP와 UDP를 C++에서 사용할 때 보통 어떤 API나 라이브러리를 사용하나요?
+    
+31. TCP stream에서 message boundary가 없다는 말은 무슨 뜻인가요?
+    
+32. 네트워크로 구조체를 그대로 전송하면 어떤 문제가 생길 수 있나요?
+    
+33. Endian 문제는 네트워크 프로그래밍에서 왜 중요한가요?
+    
+34. `htonl`, `ntohl`, `htons`, `ntohs`는 어떤 역할을 하나요?
+    
+35. Socket 자원을 RAII로 관리하면 어떤 장점이 있나요?
+    
+36. 네트워크 read/write에서 부분 송수신이 발생할 수 있는 이유는 무엇인가요?
+    
+## Build / Linking
+
+37. Header-only library의 장단점은 무엇인가요?
+    
+38. ABI 호환성이란 무엇인가요?
+    
+39. Debug/Release 빌드에서 동작이 달라질 수 있는 이유는 무엇인가요?
+    
+40. 정적 링크와 동적 링크를 선택하는 기준은 무엇인가요?
+    
+41. CMake에서 target 단위로 include path와 link library를 관리하는 이유는 무엇인가요?
+    
+
+---
+
+# 8. Docker / Container / Network
 
 ## Docker 기본
 
@@ -934,7 +968,7 @@
 
 ---
 
-# 6. GitHub Actions / GitLab CI 질문 70개
+# 9. GitHub Actions / GitLab CI
 
 ## CI/CD 기본
 
@@ -1096,7 +1130,7 @@
 
 ---
 
-# 7. Nginx / 웹 서버 / 리버스 프록시 질문 60개
+# 10. Nginx / Reverse Proxy
 
 ## Nginx 기본
 
@@ -1238,7 +1272,7 @@
 
 ---
 
-# 8. 웹 전반 / HTTP / 인증 / 브라우저 질문 80개
+# 11. Web / HTTP / 인증 / CORS / DNS
 
 ## HTTP 기본
 
