@@ -44,7 +44,7 @@
 37. Cookie 기반 인증과 Header 기반 인증의 차이는 무엇인가요?
 38. REST API에서 세션을 잘 쓰지 않는 이유는 무엇인가요?
 39. API 버전 관리는 어떻게 할 수 있나요?
-40. idempotent란 무엇인가요?
+40. Spring Boot에서 `@ResponseStatus`와 `ResponseEntity`를 선택하는 기준은 무엇인가요?
 
 ## JPA / DB
 41. JPA를 사용하는 이유는 무엇인가요?

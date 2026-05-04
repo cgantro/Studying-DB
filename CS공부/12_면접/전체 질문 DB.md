@@ -457,7 +457,7 @@
     
 44. REST API에서 세션을 잘 쓰지 않는 이유는 무엇인가요?
     
-45. Idempotency(멱등성)는 무엇이고 왜 중요한가요?
+45. Spring Boot에서 `@ResponseStatus`와 `ResponseEntity`로 상태 코드를 제어하는 방식의 차이는 무엇인가요?
     
 
 ## Spring MVC / 요청 처리 / 스레드
@@ -1418,13 +1418,13 @@
 
 ## 인증 / 인가
 
-41. 인증과 인가의 차이는 무엇인가요?
+41. 웹 애플리케이션에서 Session 기반과 JWT 기반(Stateless) 인증을 선택하는 기준은 무엇인가요?
     
 42. Session 기반 인증은 어떻게 동작하나요?
     
 43. JWT 기반 인증은 어떻게 동작하나요?
     
-44. Access Token과 Refresh Token의 차이는 무엇인가요?
+44. JWT를 브라우저에 저장할 때 Cookie vs LocalStorage 선택 기준은 무엇인가요?
     
 45. Refresh Token을 서버에 저장하는 이유는 무엇인가요?
     
